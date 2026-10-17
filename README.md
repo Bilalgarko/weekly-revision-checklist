@@ -1,4 +1,4 @@
-# weekly-revision-checklist
+# weekly-revision-checklist/planner
 
 An [Agent Skill](https://agentskills.io/specification) that helps an AI
 agent build a weekly revision checklist for university students. The agent
