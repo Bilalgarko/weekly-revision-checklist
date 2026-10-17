@@ -6,7 +6,7 @@ asks a few short questions, then outputs a checklist table with topic,
 priority, time needed and done columns.
 
 The skill refuses graded homework and assessed work, and redirects to
-revision activities instead.
+revision activities instead. And gives some plans suggestions for the student. 
 
 ## Folder tree
 
